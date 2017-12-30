@@ -6,8 +6,8 @@
 		mouse = {x:0,y:0},
 		radius = 1;
 
-	// var colors = ["#468966","#FFF0A5", "#FFB03B","#B64926", "#8E2800"];
-	var colors = ["#070707", "#454955", "#363946", "#000004", "#696773"];
+	var colors = ["#468966","#FFF0A5", "#FFB03B","#B64926", "#8E2800"];
+	// var colors = ["#070707", "#454955", "#363946", "#000004", "#696773"];
 	var name = "Tanvi Mishra"
 	var ww = canvas.width = window.innerWidth;
 	var wh = canvas.height = window.innerHeight;
